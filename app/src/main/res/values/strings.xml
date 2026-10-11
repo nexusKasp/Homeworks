@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HW1</string>
+    <string name="full_name">Меджидов Магомедсаид</string>
+    <string name="group_number">11-506</string>
+    <string name="open_second_screen">Открыть второй экран</string>
+    <string name="received_string_label">Полученная строка:</string>
+</resources>
