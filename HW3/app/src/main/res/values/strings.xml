@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">HW3</string>
+
+    <!-- Разрешение на уведомления -->
+    <string name="permission_warning">Для нормальной работы приложения нужно предоставить разрешение на показ уведомлений</string>
+    <string name="button_open_settings">Открыть настройки приложения</string>
+
+    <!-- Основной экран -->
+    <string name="field_title">Заголовок уведомления</string>
+    <string name="field_text">Текст уведомления</string>
+    <string name="checkbox_non_cancellable">Нельзя смахнуть (non-cancellable)</string>
+    <string name="importance_label">Importance</string>
+    <string name="importance_min">Min</string>
+    <string name="importance_default">Default</string>
+    <string name="importance_high">High</string>
+    <string name="dropdown_arrow">▼</string>
+    <string name="button_send">Показать уведомление</string>
+    <string name="button_open_location">Перейти на экран координат</string>
+
+    <!-- Управление активными уведомлениями -->
+    <string name="section_manage">Активные уведомления</string>
+    <string name="active_none">Нет активных уведомлений</string>
+    <string name="active_ids">ID активных уведомлений: %1$s</string>
+    <string name="field_notification_id">ID уведомления</string>
+    <string name="button_edit">Редактировать</string>
+    <string name="button_delete_all">Удалить все</string>
+
+    <!-- Ошибки -->
+    <string name="error_empty_fields">Заполните заголовок и текст уведомления</string>
+    <string name="error_invalid_id">Введите числовой ID уведомления</string>
+    <string name="error_notification_not_found">Активного уведомления с таким ID нет</string>
+
+    <!-- Экран координат -->
+    <string name="location_hint">Для определения координат нажмите на кнопку</string>
+    <string name="location_permission_denied">Для определения координат необходимо предоставить разрешение на доступ к местоположению</string>
+    <string name="location_loading">Определяем координаты…</string>
+    <string name="location_unavailable">Не удалось определить координаты. Проверьте, что геолокация включена</string>
+    <string name="location_result">Широта: %1$.6f\nДолгота: %2$.6f</string>
+    <string name="button_get_location">Определить координаты</string>
+    <string name="button_back">Назад</string>
+</resources>
