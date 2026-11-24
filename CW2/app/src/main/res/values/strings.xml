@@ -1,0 +1,20 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Работа с потоками</string>
+    <string name="count_hint">Количество задач</string>
+    <string name="default_count">3</string>
+    <string name="sequential">Запустить последовательно</string>
+    <string name="parallel">Запустить параллельно</string>
+    <string name="cancel">Отменить все задачи</string>
+    <string name="overlay_cancel">Отменить выполнение</string>
+    <string name="waiting">Ожидание запуска</string>
+    <string name="running">Выполнение...</string>
+    <string name="completed">Все задачи завершены</string>
+    <string name="cancelled">Выполнение отменено</string>
+    <string name="progress_initial">Прогресс: 0 / 10</string>
+    <string name="progress">Прогресс: %1$d / 10</string>
+    <string name="task_status">Задача %1$d из %2$d</string>
+    <string name="invalid_count">Введите число от 1 до 100</string>
+    <string name="screen_title">Работа с потоками</string>
+</resources>
